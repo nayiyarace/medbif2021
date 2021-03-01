@@ -1,4 +1,4 @@
-# MedBIF 2021
+# MedBIF 2021 Students
 | Students | Contact Info |
 |----------|----------|
 | Iyarace Khampakdee | Email: iyarace.n@gmail.com |
@@ -11,8 +11,8 @@
 |                        | [Resume](resume.md) |
 |          |
 | Arissara Tubtimyoy | Email: arissara.pang153@gmail.com |
-|                    | [Resume](https://github.com/pangarissara/medbif2021/blob/main/resume_Arissara.md) |
+|                    | [Resume]() |
 |          |
 | Chanida Limthamprasert | Email: chanida.limt@gmail.com |
-|                        | [Resume](https://github.com/Chanidanut/medbif2021/blob/main/Chanida_resume.md) |
+|                        | [Resume]() |
 
